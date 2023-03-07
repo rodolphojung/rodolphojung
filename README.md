@@ -18,6 +18,8 @@ Computational Background: Python | Power BI | SQL | R | MATLAB | Tableau
 
 * [Exploratory Analysis of Immigration to Canada Dataset, exploring tendencies and characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/analysis-of-immigration-to-canada-from-1980-to-2013.ipynb)
 
+* [Exploratory Analysis of a Logistics DB, using json and GeoCodification](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/eda-of-logistics-data.ipynb)
+
 <!--
 **rodolphojung/rodolphojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
