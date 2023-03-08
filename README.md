@@ -20,6 +20,8 @@ Computational Background: Python | Power BI | SQL | R | MATLAB | Tableau
 
 * [Exploratory Analysis of a Logistics DB, using json and GeoCodification](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/eda-of-logistics-data.ipynb)
 
+
+* [Using Classificantion ML Algorithms to explore a DB and the determine the species of Flowers](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/classification-ml-for-iris-db.ipynb)
 <!--
 **rodolphojung/rodolphojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
