@@ -18,7 +18,7 @@ Computational Background: Python | Power BI | SQL | R | MATLAB | Tableau
 
 * [Exploratory Data Analysis of Instructors dataset, correlating teching evaluation, beauty scores and checking how other parameters correlate.](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/descriptive-analysis-of-instructors-db.ipynb)
 
-* [Unsupervised ML using K-Means to clusterize and group a clients DB for marketing Analysis](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/k-means-mall-db.ipynb)
+* [Unsupervised ML using K-Means to clusterize and group a clients DB for marketing Analysis](https://www.kaggle.com/rodolphojustino/k-means-mall-db)
 
 * [Exploratory Analysis of a Logistics DB, using json and GeoCodification](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/eda-of-logistics-data.ipynb)
 
