@@ -12,16 +12,15 @@ Computational Background: Python | Power BI | SQL | R | MATLAB | Tableau
 
 * Development of an Analytical model for Hazardous Area Classification using statistics and computational fluid dynamics as a part of a Joint project with Petrobras.
 
-* [Exploratory Data Analysis of a cars dataset, correlating car prices with different characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/exploratory-data-analysis-correlating-car-prices.ipynb)
+* [Exploratory Data Analysis of a cars dataset, correlating car prices and Using ML to predict and correlate different characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/exploratory-data-analysis-correlating-car-prices.ipynb)
+
+* [Using Classificantion ML Algorithms to explore a DB and the determine the species of Flowers](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/classification-ml-for-iris-db.ipynb)
 
 * [Exploratory Data Analysis of Instructors dataset, correlating teching evaluation, beauty scores and checking how other parameters correlate.](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/descriptive-analysis-of-instructors-db.ipynb)
 
-* [Exploratory Analysis of Immigration to Canada Dataset, exploring tendencies and characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/analysis-of-immigration-to-canada-from-1980-to-2013.ipynb)
-
 * [Exploratory Analysis of a Logistics DB, using json and GeoCodification](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/eda-of-logistics-data.ipynb)
 
-
-* [Using Classificantion ML Algorithms to explore a DB and the determine the species of Flowers](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/classification-ml-for-iris-db.ipynb)
+* [Exploratory Analysis of Immigration to Canada Dataset, exploring tendencies and characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/analysis-of-immigration-to-canada-from-1980-to-2013.ipynb)
 <!--
 **rodolphojung/rodolphojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
