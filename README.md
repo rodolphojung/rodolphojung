@@ -28,7 +28,9 @@ Computational Background: Python | Power BI | SQL | R | MATLAB | Tableau | Looke
 
 ### Tableau / Power BI / Looker Studio
 
-* [Dashboard of World Population By Country](https://lookerstudio.google.com/reporting/44a369a6-5a46-44a8-93b1-863e53afdf8e)
+* [Simplified dashboard of World Population By Country in **Looker Studio**](https://lookerstudio.google.com/reporting/44a369a6-5a46-44a8-93b1-863e53afdf8e)
+
+* [World Happiness dashboard by country with metrics in **Tableau**](https://public.tableau.com/views/MyWorldHappinessDemo_16729289348050/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <!--
 **rodolphojung/rodolphojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
