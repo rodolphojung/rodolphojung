@@ -10,6 +10,8 @@ Computational Background: Python | Power BI | SQL | R | MATLAB | Tableau | Looke
 
 ## Personal Projects and Analysis
 
+### Python
+
 * Development of an Analytical model for Hazardous Area Classification using statistics and computational fluid dynamics as a part of a Joint project with Petrobras.
 
 * [Exploratory Data Analysis of a cars dataset, correlating car prices and Using ML to predict and correlate different characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/exploratory-data-analysis-correlating-car-prices.ipynb)
@@ -23,6 +25,10 @@ Computational Background: Python | Power BI | SQL | R | MATLAB | Tableau | Looke
 * [Exploratory Analysis of a Logistics DB, using json and GeoCodification](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/eda-of-logistics-data.ipynb)
 
 * [Exploratory Analysis of Immigration to Canada Dataset, exploring tendencies and characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/analysis-of-immigration-to-canada-from-1980-to-2013.ipynb)
+
+### Tableau / Power BI / Looker Studio
+
+* [Dashboard of World Population By Country](https://lookerstudio.google.com/reporting/44a369a6-5a46-44a8-93b1-863e53afdf8e)
 <!--
 **rodolphojung/rodolphojung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
