@@ -14,7 +14,7 @@ Computational Background: Python | Power BI | SQL | R | MATLAB | Tableau | Looke
 
 * Development of an Analytical model for Hazardous Area Classification using statistics and computational fluid dynamics as a part of a Joint project with Petrobras.
 
-* [Exploratory Data Analysis of a cars dataset, using Machine Learning methods and correlating car prices and Using ML to predict and correlate different characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/exploratory-data-analysis-correlating-car-prices.ipynb)
+* [Exploratory Data Analysis of a cars dataset, using Machine Learning methods and correlating car prices and correlate different characteristics](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/exploratory-data-analysis-correlating-car-prices.ipynb)
 
 * [Using Classificantion ML Algorithms to explore a DB and the determine the species of Flowers](https://github.com/rodolphojung/Data-Science-and-Analytics/blob/main/classification-ml-for-iris-db.ipynb)
 
